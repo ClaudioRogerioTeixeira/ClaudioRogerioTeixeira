@@ -1,6 +1,6 @@
 # 👋 Olá, sou Claudio Rogerio Teixeira
 
-- 💻 Trabalho com FrontEnd, UI Designer, Web Designer e Designer Gráfico.
+- 💻 Trabalho com FrontEnd, UI Designer, Graphic Design.
 - 📜 Estudando SAPUI5.
 
 <div align="center">
