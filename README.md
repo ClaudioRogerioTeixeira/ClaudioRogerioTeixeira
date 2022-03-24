@@ -1,7 +1,6 @@
 # 👋 Olá, sou Claudio Rogerio Teixeira
 
 - 💻 Trabalho com FrontEnd, UI Designer, Graphic Design.
-- 📜 Estudando SAPUI5.
 
 <div align="center">
   <a href="https://github.com/claudiorogerioteixeira">
