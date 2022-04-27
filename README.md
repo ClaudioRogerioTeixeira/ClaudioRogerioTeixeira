@@ -17,15 +17,8 @@
 </div>
   
   ##
- 
-<div style="display: inline_block"><br:   
-
-  <div>
-    <a href="https://www.linkedin.com/in/claudiorogerioteixeira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div
   
-  <div>
-    <a href="https://claudiorogerioteixeira.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/My-PORTFOLIO-orange" target="_blank"></a>
-  </div>
-  
-</div>
+<p float="left">   
+  <a href="https://www.linkedin.com/in/claudiorogerioteixeira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://claudiorogerioteixeira.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/My-PORTFOLIO-orange" target="_blank"></a> 
+</p>
