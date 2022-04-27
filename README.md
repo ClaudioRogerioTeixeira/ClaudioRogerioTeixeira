@@ -21,5 +21,5 @@
 <div>   
   <a href="https://www.linkedin.com/in/claudiorogerioteixeira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-  <a href="https://claudiorogerioteixeira.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/my-PORTFOLIO" target="_blank"></a>
+  <a href="https://claudiorogerioteixeira.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO" target="_blank"></a>
 </div>
