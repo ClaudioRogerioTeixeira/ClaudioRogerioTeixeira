@@ -3,7 +3,7 @@
 - 💻 FullStack Jr., UI Designer, Graphic Design.
 
 
-Skills:
+## Skills:
 <div align="center">
   <a href="https://github.com/claudiorogerioteixeira">
 </div>
@@ -25,8 +25,7 @@ Skills:
   <img align="center" alt="Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />     
 </div>
   
-  ##
-  
+## Connect comigo: 
 <p float="left">   
   <a href="https://www.linkedin.com/in/claudiorogerioteixeira" target="_blank"><img alt="claudio-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />  
   <a href="https://claudiorogerioteixeira.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/My-PORTFOLIO-orange" target="_blank"></a> 
