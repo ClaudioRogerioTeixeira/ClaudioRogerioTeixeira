@@ -1,9 +1,8 @@
 # 👋 Olá, sou Claudio Rogerio Teixeira
 
-- 💻 FullStack Jr., UI Designer, Graphic Design.
+- 💻 FullStack Jr., UI Designer, Graphic Design.<br><br>
 
-
-#Skills:
+Skills:
 <div align="center">
   <a href="https://github.com/claudiorogerioteixeira">
 </div>
@@ -23,9 +22,9 @@
   <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Visual Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" alt="Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />     
-</div>
+</div><br>
   
-#Saiba mais: 
+Saiba mais: 
 <p float="left">   
   <a href="https://www.linkedin.com/in/claudiorogerioteixeira" target="_blank"><img alt="claudio-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />  
   <a href="https://claudiorogerioteixeira.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/My-PORTFOLIO-orange" target="_blank"></a> 
