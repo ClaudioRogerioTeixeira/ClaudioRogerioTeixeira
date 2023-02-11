@@ -20,6 +20,6 @@
   ##
   
 <p float="left">   
-  <a href="https://www.linkedin.com/in/claudiorogerioteixeira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/claudiorogerioteixeira" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />  
   <a href="https://claudiorogerioteixeira.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/My-PORTFOLIO-orange" target="_blank"></a> 
 </p>
