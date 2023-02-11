@@ -2,6 +2,8 @@
 
 - 💻 FullStack Jr., UI Designer, Graphic Design.
 
+Skills:
+
 <div align="center">
   <a href="https://github.com/claudiorogerioteixeira">
 </div>
