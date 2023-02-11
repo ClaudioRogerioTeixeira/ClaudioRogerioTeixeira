@@ -1,6 +1,6 @@
 # 👋 Olá, sou Claudio Rogerio Teixeira
 
-- 💻 Trabalho com FrontEnd, UI Designer, Graphic Design.
+- 💻 FullStack Jr., UI Designer, Graphic Design.
 
 <div align="center">
   <a href="https://github.com/claudiorogerioteixeira">
