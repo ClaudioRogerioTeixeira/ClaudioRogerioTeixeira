@@ -1,6 +1,6 @@
 # 👋 Olá, sou Claudio Rogerio Teixeira
 
-- 💻 FrontEnd e BackEnd Jr., UI Designer, Graphic Design.<br><br>
+- 💻 FrontEnd e BackEnd, UI Designer, Graphic Design.<br><br>
 
 Skills:
 <div align="center">
